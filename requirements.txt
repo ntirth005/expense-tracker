@@ -1,4 +1,0 @@
-# Requirements for the project
-pandas==2.2.1          # For data manipulation and analysis
-plotly==5.21.0         # For creating interactive visualizations
-pywebview==3.0         # For displaying web content in a native window
